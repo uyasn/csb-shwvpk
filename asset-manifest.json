@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-shwvpk/static/js/main.df6ea81a.chunk.js",
+    "main.js.map": "https://.github.io/csb-shwvpk/static/js/main.df6ea81a.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-shwvpk/static/js/runtime-main.b6e2cc32.js",
+    "runtime-main.js.map": "https://.github.io/csb-shwvpk/static/js/runtime-main.b6e2cc32.js.map",
+    "static/css/2.1f3b9404.chunk.css": "https://.github.io/csb-shwvpk/static/css/2.1f3b9404.chunk.css",
+    "static/js/2.d23b0982.chunk.js": "https://.github.io/csb-shwvpk/static/js/2.d23b0982.chunk.js",
+    "static/js/2.d23b0982.chunk.js.map": "https://.github.io/csb-shwvpk/static/js/2.d23b0982.chunk.js.map",
+    "index.html": "https://.github.io/csb-shwvpk/index.html",
+    "static/css/2.1f3b9404.chunk.css.map": "https://.github.io/csb-shwvpk/static/css/2.1f3b9404.chunk.css.map",
+    "static/js/2.d23b0982.chunk.js.LICENSE.txt": "https://.github.io/csb-shwvpk/static/js/2.d23b0982.chunk.js.LICENSE.txt",
+    "static/media/300.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-300-normal.32fc45a3.woff2",
+    "static/media/400.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2",
+    "static/media/500.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-500-normal.d8642a3d.woff2",
+    "static/media/700.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-700-normal.3425a701.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6e2cc32.js",
+    "static/css/2.1f3b9404.chunk.css",
+    "static/js/2.d23b0982.chunk.js",
+    "static/js/main.df6ea81a.chunk.js"
+  ]
+}
