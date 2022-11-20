@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://.github.io/csb-shwvpk/static/css/main.2a5d4bf3.chunk.css",
-    "main.js": "https://.github.io/csb-shwvpk/static/js/main.f265f8e7.chunk.js",
-    "main.js.map": "https://.github.io/csb-shwvpk/static/js/main.f265f8e7.chunk.js.map",
+    "main.js": "https://.github.io/csb-shwvpk/static/js/main.0e62dcf8.chunk.js",
+    "main.js.map": "https://.github.io/csb-shwvpk/static/js/main.0e62dcf8.chunk.js.map",
     "runtime-main.js": "https://.github.io/csb-shwvpk/static/js/runtime-main.b6e2cc32.js",
     "runtime-main.js.map": "https://.github.io/csb-shwvpk/static/js/runtime-main.b6e2cc32.js.map",
     "static/css/2.1f3b9404.chunk.css": "https://.github.io/csb-shwvpk/static/css/2.1f3b9404.chunk.css",
-    "static/js/2.6ea7e33d.chunk.js": "https://.github.io/csb-shwvpk/static/js/2.6ea7e33d.chunk.js",
-    "static/js/2.6ea7e33d.chunk.js.map": "https://.github.io/csb-shwvpk/static/js/2.6ea7e33d.chunk.js.map",
+    "static/js/2.4777ba5e.chunk.js": "https://.github.io/csb-shwvpk/static/js/2.4777ba5e.chunk.js",
+    "static/js/2.4777ba5e.chunk.js.map": "https://.github.io/csb-shwvpk/static/js/2.4777ba5e.chunk.js.map",
     "index.html": "https://.github.io/csb-shwvpk/index.html",
     "static/css/2.1f3b9404.chunk.css.map": "https://.github.io/csb-shwvpk/static/css/2.1f3b9404.chunk.css.map",
     "static/css/main.2a5d4bf3.chunk.css.map": "https://.github.io/csb-shwvpk/static/css/main.2a5d4bf3.chunk.css.map",
-    "static/js/2.6ea7e33d.chunk.js.LICENSE.txt": "https://.github.io/csb-shwvpk/static/js/2.6ea7e33d.chunk.js.LICENSE.txt",
+    "static/js/2.4777ba5e.chunk.js.LICENSE.txt": "https://.github.io/csb-shwvpk/static/js/2.4777ba5e.chunk.js.LICENSE.txt",
     "static/media/300.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-300-normal.32fc45a3.woff2",
     "static/media/400.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2",
     "static/media/500.css": "https://.github.io/csb-shwvpk/static/media/roboto-vietnamese-500-normal.d8642a3d.woff2",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.b6e2cc32.js",
     "static/css/2.1f3b9404.chunk.css",
-    "static/js/2.6ea7e33d.chunk.js",
+    "static/js/2.4777ba5e.chunk.js",
     "static/css/main.2a5d4bf3.chunk.css",
-    "static/js/main.f265f8e7.chunk.js"
+    "static/js/main.0e62dcf8.chunk.js"
   ]
 }
