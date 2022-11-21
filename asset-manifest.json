@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://uyasn.github.io/csb-shwvpk/static/css/main.2a5d4bf3.chunk.css",
-    "main.js": "https://uyasn.github.io/csb-shwvpk/static/js/main.f1de4b93.chunk.js",
-    "main.js.map": "https://uyasn.github.io/csb-shwvpk/static/js/main.f1de4b93.chunk.js.map",
+    "main.js": "https://uyasn.github.io/csb-shwvpk/static/js/main.7f810554.chunk.js",
+    "main.js.map": "https://uyasn.github.io/csb-shwvpk/static/js/main.7f810554.chunk.js.map",
     "runtime-main.js": "https://uyasn.github.io/csb-shwvpk/static/js/runtime-main.e0f4a9b4.js",
     "runtime-main.js.map": "https://uyasn.github.io/csb-shwvpk/static/js/runtime-main.e0f4a9b4.js.map",
     "static/css/2.bad3f0d9.chunk.css": "https://uyasn.github.io/csb-shwvpk/static/css/2.bad3f0d9.chunk.css",
-    "static/js/2.024ad5e9.chunk.js": "https://uyasn.github.io/csb-shwvpk/static/js/2.024ad5e9.chunk.js",
-    "static/js/2.024ad5e9.chunk.js.map": "https://uyasn.github.io/csb-shwvpk/static/js/2.024ad5e9.chunk.js.map",
+    "static/js/2.2467d408.chunk.js": "https://uyasn.github.io/csb-shwvpk/static/js/2.2467d408.chunk.js",
+    "static/js/2.2467d408.chunk.js.map": "https://uyasn.github.io/csb-shwvpk/static/js/2.2467d408.chunk.js.map",
     "index.html": "https://uyasn.github.io/csb-shwvpk/index.html",
     "static/css/2.bad3f0d9.chunk.css.map": "https://uyasn.github.io/csb-shwvpk/static/css/2.bad3f0d9.chunk.css.map",
     "static/css/main.2a5d4bf3.chunk.css.map": "https://uyasn.github.io/csb-shwvpk/static/css/main.2a5d4bf3.chunk.css.map",
-    "static/js/2.024ad5e9.chunk.js.LICENSE.txt": "https://uyasn.github.io/csb-shwvpk/static/js/2.024ad5e9.chunk.js.LICENSE.txt",
+    "static/js/2.2467d408.chunk.js.LICENSE.txt": "https://uyasn.github.io/csb-shwvpk/static/js/2.2467d408.chunk.js.LICENSE.txt",
     "static/media/300.css": "https://uyasn.github.io/csb-shwvpk/static/media/roboto-vietnamese-300-normal.32fc45a3.woff2",
     "static/media/400.css": "https://uyasn.github.io/csb-shwvpk/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2",
     "static/media/500.css": "https://uyasn.github.io/csb-shwvpk/static/media/roboto-vietnamese-500-normal.d8642a3d.woff2",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.e0f4a9b4.js",
     "static/css/2.bad3f0d9.chunk.css",
-    "static/js/2.024ad5e9.chunk.js",
+    "static/js/2.2467d408.chunk.js",
     "static/css/main.2a5d4bf3.chunk.css",
-    "static/js/main.f1de4b93.chunk.js"
+    "static/js/main.7f810554.chunk.js"
   ]
 }
